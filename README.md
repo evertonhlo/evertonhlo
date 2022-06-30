@@ -3,11 +3,8 @@
 Eu sou o Everton Oliveira.
 
 
-- 🔭 I'm looking for a job
-- 🌱 I’m currently learning React JS
-- 💬 Ask me about ...
-- 📫 How to reach me: evertonhloliveira@gmail.com
-- 😄 Pronouns: he/him
+- 🔭 I'm looking for a job.
+- 🌱 I’m currently learning React JS.
 - ⚡ Fun fact: I worked in cinema industry. 
 
 
