@@ -5,7 +5,7 @@ Eu sou o Everton Oliveira.
 
 - 🔭 I'm looking for a job.
 - 🌱 I’m currently learning React JS.
-- ⚡ Fun fact: I worked in cinema industry. 
+
 
 <div>
  <img align="right" alt="Everton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
