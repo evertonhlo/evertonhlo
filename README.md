@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Everton Oliveira.
+I am Everton Oliveira.
 
 
 - 🔭 I'm looking for a job.
